@@ -9,7 +9,7 @@ include:
 targets:
   # The 'dev' target, for development purposes. This target is the default.
   dev:
-    mode: development2
+    mode: development
     default: true
     workspace:
       host: https://adb-7405614178423574.14.azuredatabricks.net
